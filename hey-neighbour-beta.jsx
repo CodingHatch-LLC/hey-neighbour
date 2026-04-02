@@ -21,7 +21,7 @@ const HeyNeighbourBeta = () => {
     // Music (3)
     { id: 1, name: 'Summer Nights Festival', date: 'Jul 15, 2026', location: 'Downtown Park', price: 85, bannerUrl: 'https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=1200', category: 'Music', description: 'Three days of incredible live music under the stars', attendees: 245 },
     { id: 2, name: 'Jazz & Soul Evening', date: 'Jul 22, 2026', location: 'The Blue Room', price: 55, bannerUrl: 'https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200', category: 'Music', description: 'An intimate evening of jazz and soul with local legends', attendees: 130 },
-    { id: 3, name: 'Rooftop DJ Night', date: 'Aug 8, 2026', location: 'Sky Lounge', price: 40, bannerUrl: 'public/images/music.jpeg', category: 'Music', description: 'Dance the night away under the stars with top DJs', attendees: 310 },
+    { id: 3, name: 'Rooftop DJ Night', date: 'Aug 8, 2026', location: 'Sky Lounge', price: 40, bannerUrl: 'images/music.jpeg', category: 'Music', description: 'Dance the night away under the stars with top DJs', attendees: 310 },
     // Food (3)
     { id: 4, name: 'Food & Wine Gala', date: 'Aug 2, 2026', location: 'Waterfront Venue', price: 120, bannerUrl: 'https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=1200', category: 'Food', description: 'Premium wines and gourmet cuisine from local chefs', attendees: 180 },
     { id: 5, name: 'Street Food Festival', date: 'Aug 10, 2026', location: 'City Square', price: 15, bannerUrl: 'https://images.unsplash.com/photo-1565123409695-7b5ef63a2efb?w=1200', category: 'Food', description: 'Over 50 vendors serving global street food delights', attendees: 620 },
